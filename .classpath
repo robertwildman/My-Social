@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Robert/Downloads/facebook-android-sdk-3.8.0/facebook/bin/facebooksdk.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Robert/Documents/My-Social/lib/aws-android-sdk-1.6.0-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Robert/Documents/My-Social/lib/aws-android-sdk-1.6.0-ddb.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Robert/Documents/My-Social/lib/aws-android-sdk-1.6.0-s3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Robert/Documents/My-Social/lib/aws-android-sdk-1.6.0-sts.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint/deviceinfoendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libmessageEndpoint-v1/messageEndpoint/messageendpoint-v1-generated-source"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

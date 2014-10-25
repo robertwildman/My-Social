@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_add"
+          android:icon="@drawable/add"
+          android:title="Add New Network"
+          android:showAsAction="ifRoom" />
+    
+    <item android:id="@+id/action_finished"
+          android:icon="@drawable/done"
+          android:title="Finished"
+          android:showAsAction="ifRoom" />
+</menu>

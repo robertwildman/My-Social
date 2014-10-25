@@ -1,0 +1,14 @@
+{ 
+    "default": "ENTER YOUR MESSAGE", 
+    "email": "ENTER YOUR MESSAGE", 
+    "sqs": "ENTER YOUR MESSAGE", 
+    "http": "ENTER YOUR MESSAGE", 
+    "https": "ENTER YOUR MESSAGE", 
+    "sms": "ENTER YOUR MESSAGE", 
+    "APNS": "{\"aps\":{\"alert\": \"ENTER YOUR MESSAGE\",\"sound\":\"default\"} }", 
+    "GCM":"{\"data\”:{\”title\”:\”Check out these awesome deals!\”,\”message\”:\”www.amazon.com\"}}", 
+    "ADM": "{ \"data\": { \"message\": \"ENTER YOUR MESSAGE\" } }", 
+    "BAIDU": "{\"title\":\"ENTER YOUR TITLE\",\"description\":\"ENTER YOUR DESCRIPTION\"}", 
+    "MPNS" : "<?xml version=\"1.0\" encoding=\"utf-8\"?><wp:Notification xmlns:wp=\"WPNotification\"><wp:Tile><wp:Count>ENTER COUNT</wp:Count><wp:Title>ENTER YOUR MESSAGE</wp:Title></wp:Tile></wp:Notification>", 
+    "WNS" : "<badge version=\"1\" value=\"23\"/>" 
+}

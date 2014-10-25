@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My-Social</string>
+    <string name="action_settings">Settings</string>
+ <string name="fb_role_arn">arn:aws:iam::072893446206:role/Facebooklogin</string>
+<string name="fb_app_id">333512536765952</string>
+   
+      <string-array name="networks_arrays">
+        <item>Bio</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Youtube</item>
+        <item>Snapchat</item>
+        <item>Instagram</item>
+        <item>Google +</item>
+        <item>Tumblr</item>
+        <item>Email</item>
+        <item>Website (1)</item>
+        
+        <item>Flickr</item>
+        <item>Photobucket</item>
+       
+        <item>GitHub</item>
+        <item>Stackoverflow</item>
+        
+        <item>Spotify</item> 
+        <item>Soundcloud</item>
+        <item>Last.FM</item>
+          
+        <item>Website (2)</item>
+        <item>Website (3)</item>
+        <item>Website (4)</item>
+        <item>Website (5)</item>
+        
+        <item>Formspring</item>
+        
+        <item>Bebo</item>
+        
+       
+        <item>Vine</item>
+        <item>We Heart It</item>
+        <item>Foursquare</item>
+        <item>Linkedin</item>
+        <item>Vimeo</item>
+        <item>Pinterest</item>
+        <item>Blogger</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>Twitch</item>
+        
+        <item>Reddit</item>
+        <item>Kickstarter</item>
+  </string-array> 
+   <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    
+      
+  <string-array name="nav_drawer_items">
+      
+        <item >Home</item>
+        <item >Discover</item>
+        <item >Edit Profile</item> 
+        <item >Search</item>
+        <item >Setting</item>
+        <item >Log Out</item>
+    </string-array>
+</resources>

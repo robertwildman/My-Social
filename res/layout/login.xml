@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/MySocial" >
+
+    <TextView
+        android:id="@+id/tvprofilerownetwork"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="72dp"
+        android:text="My-Social"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/White"
+        android:textSize="50sp" />
+
+    <Button
+        android:id="@+id/bloginb2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bloginb1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:text="Register with Facebook "
+        android:textColor="@color/White" />
+
+    <Button
+        android:id="@+id/bloginb1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvprofilerownetwork"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="81dp"
+        android:text="Login with Facebook "
+        android:textColor="@color/White" />
+
+</RelativeLayout>
